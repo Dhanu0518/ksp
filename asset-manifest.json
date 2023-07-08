@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/ksp/static/css/main.f97a8d3f.css",
-    "main.js": "/ksp/static/js/main.6a4f0716.js",
+    "main.css": "/ksp/static/css/main.7a8e180d.css",
+    "main.js": "/ksp/static/js/main.33073902.js",
     "static/js/787.19308102.chunk.js": "/ksp/static/js/787.19308102.chunk.js",
-    "static/media/revicons.eot": "/ksp/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/ksp/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/ksp/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/KSP_vmc.mp4": "/ksp/static/media/KSP_vmc.10be2c62d858cf13bb6b.mp4",
+    "static/media/KSP_logo.jpeg": "/ksp/static/media/KSP_logo.2994fb9876267c518bbe.jpeg",
     "index.html": "/ksp/index.html",
-    "main.f97a8d3f.css.map": "/ksp/static/css/main.f97a8d3f.css.map",
-    "main.6a4f0716.js.map": "/ksp/static/js/main.6a4f0716.js.map",
+    "main.7a8e180d.css.map": "/ksp/static/css/main.7a8e180d.css.map",
+    "main.33073902.js.map": "/ksp/static/js/main.33073902.js.map",
     "787.19308102.chunk.js.map": "/ksp/static/js/787.19308102.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f97a8d3f.css",
-    "static/js/main.6a4f0716.js"
+    "static/css/main.7a8e180d.css",
+    "static/js/main.33073902.js"
   ]
 }
