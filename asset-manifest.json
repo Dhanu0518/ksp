@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ksp/static/css/main.efb3a4ab.css",
-    "main.js": "/ksp/static/js/main.67b6d7f6.js",
+    "main.css": "/ksp/static/css/main.b24bf8cd.css",
+    "main.js": "/ksp/static/js/main.24869d32.js",
     "static/js/787.19308102.chunk.js": "/ksp/static/js/787.19308102.chunk.js",
     "static/media/KSP_vmc.mp4": "/ksp/static/media/KSP_vmc.9c952626ebcc2ad4b62d.mp4",
     "static/media/KSP_logo.jpeg": "/ksp/static/media/KSP_logo.2994fb9876267c518bbe.jpeg",
     "index.html": "/ksp/index.html",
-    "main.efb3a4ab.css.map": "/ksp/static/css/main.efb3a4ab.css.map",
-    "main.67b6d7f6.js.map": "/ksp/static/js/main.67b6d7f6.js.map",
+    "main.b24bf8cd.css.map": "/ksp/static/css/main.b24bf8cd.css.map",
+    "main.24869d32.js.map": "/ksp/static/js/main.24869d32.js.map",
     "787.19308102.chunk.js.map": "/ksp/static/js/787.19308102.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efb3a4ab.css",
-    "static/js/main.67b6d7f6.js"
+    "static/css/main.b24bf8cd.css",
+    "static/js/main.24869d32.js"
   ]
 }
