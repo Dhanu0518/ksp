@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/ksp/static/css/main.b24bf8cd.css",
-    "main.js": "/ksp/static/js/main.24869d32.js",
+    "main.css": "/ksp/static/css/main.674e4422.css",
+    "main.js": "/ksp/static/js/main.4ef66fd6.js",
     "static/js/787.19308102.chunk.js": "/ksp/static/js/787.19308102.chunk.js",
     "static/media/KSP_vmc.mp4": "/ksp/static/media/KSP_vmc.9c952626ebcc2ad4b62d.mp4",
     "static/media/KSP_logo.jpeg": "/ksp/static/media/KSP_logo.2994fb9876267c518bbe.jpeg",
+    "static/media/MAIN_logo-removebg-preview.png": "/ksp/static/media/MAIN_logo-removebg-preview.37ff8dac201668239145.png",
+    "static/media/KSP_ENG logo.jpg": "/ksp/static/media/KSP_ENG logo.6afcfd661cc571272766.jpg",
+    "static/media/KSP_ENT logo.jpg": "/ksp/static/media/KSP_ENT logo.3cf6c36ef18686734d9d.jpg",
     "index.html": "/ksp/index.html",
-    "main.b24bf8cd.css.map": "/ksp/static/css/main.b24bf8cd.css.map",
-    "main.24869d32.js.map": "/ksp/static/js/main.24869d32.js.map",
+    "main.674e4422.css.map": "/ksp/static/css/main.674e4422.css.map",
+    "main.4ef66fd6.js.map": "/ksp/static/js/main.4ef66fd6.js.map",
     "787.19308102.chunk.js.map": "/ksp/static/js/787.19308102.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b24bf8cd.css",
-    "static/js/main.24869d32.js"
+    "static/css/main.674e4422.css",
+    "static/js/main.4ef66fd6.js"
   ]
 }
